@@ -4,7 +4,7 @@ msgFromClient       = "Hello UDP Server"
 
 bytesToSend         = str.encode(msgFromClient)
 
-serverAddressPort   = ("127.0.0.1", 20001)
+serverAddressPort   = ("172.30.7.200", 20001)
 
 bufferSize          = 1024
 
